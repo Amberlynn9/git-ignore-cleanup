@@ -9,3 +9,14 @@ editor: visual
 ```{r}
 summary(mtcars)
 ```
+
+```{r}
+#Add section
+
+
+```
+
+```{r}
+#fix a typo
+
+```
